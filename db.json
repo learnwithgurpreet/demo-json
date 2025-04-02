@@ -1,0 +1,18 @@
+{
+  "en": {
+    "greeting": "Hello, world!",
+    "farewell": "Goodbye, world!"
+  },
+  "es": {
+    "greeting": "¡Hola, mundo!",
+    "farewell": "¡Adiós, mundo!"
+  },
+  "fr": {
+    "greeting": "Bonjour, le monde!",
+    "farewell": "Au revoir, le monde!"
+  },
+  "de": {
+    "greeting": "Hallo, Welt!",
+    "farewell": "Auf Wiedersehen, Welt!"
+  }
+}
